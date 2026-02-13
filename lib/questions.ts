@@ -533,7 +533,7 @@ export const questions: Question[] = [
 ];
 
 // Get filtered questions based on current data state
-export function getActiveQuestions(data: FormData, answeredIds: Set<string>): Question[] {
+export function getActiveQuestions(data: FormData): Question[] {
   return questions.filter(q => {
     if (!q.condition) return true;
     return q.condition(data);

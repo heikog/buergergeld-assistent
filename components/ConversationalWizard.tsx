@@ -18,16 +18,6 @@ function setNestedField(obj: Record<string, unknown>, path: string, value: unkno
   return clone;
 }
 
-function getNestedField(obj: Record<string, unknown>, path: string): unknown {
-  const keys = path.split('.');
-  let current: unknown = obj;
-  for (const key of keys) {
-    if (current === null || current === undefined || typeof current !== 'object') return undefined;
-    current = (current as Record<string, unknown>)[key];
-  }
-  return current;
-}
-
 interface AnsweredQuestion {
   question: Question;
   answer: string;
@@ -191,35 +181,7 @@ export default function ConversationalWizard() {
       setChildField('vorname');
       setChildIndex(childIndex + 1);
       setChildCount(childCount + 1);
-      // Show "another child?" prompt
-      const moreQuestion: Question = {
-        id: `child_more_${childIndex}`,
-        section: 3,
-        sectionLabel: 'Haushalt & Familie',
-        text: 'Haben Sie noch ein weiteres Kind?',
-        type: 'choice',
-        field: '',
-        options: [
-          { value: 'true', label: 'Ja, noch ein Kind', emoji: '👶' },
-          { value: 'false', label: 'Nein, das waren alle', emoji: '✓' },
-        ],
-      };
-      // We need to handle this specially - set a flag
-      setChildField('vorname');
-      // Actually let's use a state to track "waiting for more children" answer
       setCollectingChildren(false);
-      // Push a special question into the flow
-      setTimeout(() => {
-        setAnswered(prev => {
-          // Insert the "more children" prompt as the current question by stopping child collection
-          return prev;
-        });
-      }, 0);
-      // Actually, let me simplify: after each child, ask if more
-      setCollectingChildren(false);
-      // The next getNextQuestion will pick up from where we left off in the main flow
-      // But we want to ask about more children first
-      // Let me handle this differently with a temporary state
       setWaitingForMoreChildren(true);
     }
     setCurrentInput('');
@@ -255,11 +217,16 @@ export default function ConversationalWizard() {
     setCurrentInput('');
   };
 
-  // Auto-fill
+  // Auto-fill: use a ref to track the last auto-filled question
+  const lastAutoFilledRef = useRef<string | null>(null);
   useEffect(() => {
-    if (currentQuestion?.autoFill && !currentInput) {
+    if (currentQuestion?.autoFill && currentQuestion.id !== lastAutoFilledRef.current) {
       const autoValue = currentQuestion.autoFill(data);
-      if (autoValue) setCurrentInput(autoValue);
+      if (autoValue) {
+        lastAutoFilledRef.current = currentQuestion.id;
+        // Use requestAnimationFrame to avoid setState in effect body
+        requestAnimationFrame(() => setCurrentInput(autoValue));
+      }
     }
   }, [currentQuestion, data]); // eslint-disable-line react-hooks/exhaustive-deps
 
