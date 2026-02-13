@@ -1,0 +1,3578 @@
+{
+  "hauptantrag.pdf": [
+    {
+      "name": "txtfPersonVorname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonNachname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "datePersonGebDatum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonGebName",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonGebOrt",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonGebLand",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonStaatsangehoerigkeit",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonMaennlich",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonWeiblich",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonDivers",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonKeine",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonStr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonHausnr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonPlz",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonOrt",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonPostfach",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonTel",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxWohnsitz",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtareaPersonWohnhaft",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfKontoinhaber",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfIBAN",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxKonto",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSVRVNr",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSVRVNr",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonSVRVNr",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonBetreuer",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonBetreuer",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "datePersonEinreise",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAufenthaltsgenehm",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAufenthaltsgenehm",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonVerpflichtungserkl",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonVerpflichtungserkl",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonFamStandLedig",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonFamStandVerheiratet",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonFamStandVerwitwet",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonFamStandEingetrLeben",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonFamStandGetrennt",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonFamStandGeschieden",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonFamStandAufgehobLeben",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "datePersonGetrennt",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonAntragBUEGSofort",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonAntragBUEGSpaeter",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "datePersonAntragBUEG",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rtbnPersonErwerbsfaehig",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rtbnPersonErwerbsfaehig",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSchueler",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSchueler",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSchulbuecher",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSchulbuecher",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonUnterbringung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonUnterbringung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonUnter18",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonUnter18",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonElternBG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonElternBG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAusbildung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAusbildung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonBerechtigterAsyl",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonBerechtigterAsyl",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "datePersonAsylbewerberleistung",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonIdentNr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonAuslaenderNr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonLetztenDreiJahreBUEG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonLetztenDreiJahreBUEG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonLeistungsart",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "datePersonZeitraumLeistungVon",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "datePersonZeitraumLeistungBis",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerName",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerStr",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerHausnr",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerPlz",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerOrt",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAngestellt",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAngestellt",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "datePersonBeschaeftigung1Von",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "datePersonBeschaeftigung1Bis",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "datePersonBeschaeftigung2Von",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "datePersonBeschaeftigung2Bis",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonLohnanspruch",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonLohnanspruch",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGName",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGStr",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGHausnr",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGPlz",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGOrt",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSelbstaendig",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSelbstaendig",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonEntgeltersatz",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonEntgeltersatz",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonEntgeltersatz",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "datePersonEntgeltersatzVon",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "datePersonEntgeltersatzBis",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonWehrdienst",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonWehrdienst",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonPflegeAngehoerige",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonPflegeAngehoerige",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "txtareaPersonLebensunterhalt",
+      "type": "Text",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAndereLeistungen",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAndereLeistungen",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonLeistungBafoeg",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonLeistungBAB",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonLeistungWohngeld",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonLeistungALG",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonLeistungRente",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonLeistungKRG",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonLeistungKG",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonLeistungKIZ",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonLeistungSonstiges",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonLeistungenSonstiges",
+      "type": "Text",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonGesundheitlSchaden",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonGesundheitlSchaden",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAnspruchDritter",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAnspruchDritter",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAlleinerziehend",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonAlleinerziehend",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSchwanger",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonSchwanger",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "datePersonEntbindung",
+      "type": "Text",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonKostenErnaehrung",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonKostenErnaehrung",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonBehinderung",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonBehinderung",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonLeistungenTeilhabe",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonLeistungenTeilhabe",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonUnabweisbarerBedarf",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonUnabweisbarerBedarf",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonStationaereEinricht",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonStationaereEinricht",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonStationaereEinricht",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "datePersonStationaereEinrichtVon",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "datePersonStationaereEinrichtBis",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonKVPV",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonKVPV",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "txtfKVName",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "txtfKVNr",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rtbnKVWechsel",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rtbnKVWechsel",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonVersichert",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonVersichert",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonWohnsituation",
+      "type": "RadioButton",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonWohnsituation",
+      "type": "RadioButton",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonWohnenEhegatte",
+      "type": "CheckBox",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonWohnenKind",
+      "type": "CheckBox",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonWohnenKindU15",
+      "type": "CheckBox",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonWohnenEltern",
+      "type": "CheckBox",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonWohnenVerwandte",
+      "type": "CheckBox",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "chbxPersonWohnenSonstige",
+      "type": "CheckBox",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonBedarfUnterkunft",
+      "type": "RadioButton",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonBedarfUnterkunft",
+      "type": "RadioButton",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonWarmwasser",
+      "type": "RadioButton",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "rbtnPersonWarmwasser",
+      "type": "RadioButton",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftPerson",
+      "type": "Text",
+      "page": 8,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftBetreuer",
+      "type": "Text",
+      "page": 8,
+      "choices": null
+    }
+  ],
+  "anlage-kdu.pdf": [
+    {
+      "name": "txtfPersonVorname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonNachname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "datePersonGebDatum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGNr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonStr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonHausNr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonPlz",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonOrt",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfUnterkunftAnzahlPersonen",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfUnterkunftBaujahr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfUnterkunftAnzahlRaum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfUnterkunftAnzahlKueche",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfUnterkunftAnzahlBad",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfUnterkunftGesamt",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfUnterkunftSelbst",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfUnterkunftVermietet",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfUnterkunftLeer",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfUnterkunftGewerbe",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxWohnenMiete",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxWohnenEigentum",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxBedarfGrundmiete",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfBedarfGrundmiete",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxBedarfNebenkosten",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfBedarfNebenkosten",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxBedarfHeizkosten",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfBedarfHeizkosten",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxBedarfPauschalmiete",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfBedarfPauschalmiete",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxBedarfSonstiges",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfBedarfSonstiges",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnWohneinheit",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnWohneinheit",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfWohneinheitAnzahl",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumSchuldzinsen",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumHeizkosten",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumWartung",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumGrundsteuern",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumVersicherung",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumWasser",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumAbwasser",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumMuell",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumSchornstein",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumStrassenreinigung",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEigentumSonstiges",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfEigentumSonstige",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEnergiequellenStrom",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEnergiequellenGas",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEnergiequellenOel",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEnergiequellenFernwaerme",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEnergiequellenHolz",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEnergiequellenSonstiges",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfEnergiequellenSonstiges",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnBrenstoff",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnBrenstoff",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxHeizungZentralheizung",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxHeizungsartEinzelofen",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxHeizungsartNachtspeicherofen",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxKochenStrom",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxKochenGas",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxKochenSonstiges",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfKochenSonstiges",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxWasserZentral",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxWasserDezentral",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxWarmwasserStrom",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxWarmwasserGas",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxWarmwasserHeizoel",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxWarmwasserHolz",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxWarmwasserKohle",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxWarmwasserSonstiges",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfWarmwasserSonstiges",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnMieteDirekt",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnMieteDirekt",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfVermieterName",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfVermieterStr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfVermieterHausNr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfVermieterPlz",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfVermieterOrt",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfVermieterIBAN",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftPerson",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftBetreuer",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    }
+  ],
+  "anlage-ek.pdf": [
+    {
+      "name": "txtfPersonVorname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonNachname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "datePersonGebDatum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGNr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGVorname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGNachname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "dateBGGebDatum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnEinkommen",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnEinkommen",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfAGName",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfAGStr",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfAGHausNr",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfAGPlz",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfAGOrt",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfAG2Name",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfAG2Str",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfAG2HausNr",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfAG2Plz",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfAG2Ort",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnEinkommenZahlung",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnEinkommenZahlung",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnEinkommenFreiberuflich",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnEinkommenFreiberuflich",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnAufwandEhrenamtlich",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnAufwandEhrenamtlich",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeWohngeld",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeArbeitslosengeld",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeKrankengeld",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeÜbergangsgeld",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeKurzarbeitergeld",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeInsolvenzgeld",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeElterngeld",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeKindergeld",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeKinderzuschlag",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeUnterhalt",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeUnterhaltsvorschuss",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeBAfoeG",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeBAB",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeAusbildungsgeld",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeRenten",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeVermietung",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeSozialhilfe",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeSachbezuege",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeSonstige",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeAndere",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfEinnahmeAndere",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxEinnahmeKeine",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnAusgabeFahrt",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnAusgabeFahrt",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfArbeitsstaetteStr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfArbeitsstaetteHausNr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfArbeitsstaettePlz",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfArbeitsstaetteOrt",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "numfArbeitsstaetteStrecke",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "numfArbeitsstaetteFahrtWoche",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxArbeitsstaetteFahrtKFZ",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxArbeitsstaetteFahrtOeffis",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxArbeitsstaetteFahrtSonstiges",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfArbeitsstaetteFahrtSonstiges",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnFahrkostenZuschuss",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnFahrkostenZuschuss",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnAusgabe",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnAusgabe",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxVersicherungKfz",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxVersicherungGesetzlich",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxVersicherungAltersvorsorge",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "chbxVersicherungPrivat",
+      "type": "CheckBox",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnKind",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnKind",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnUnterhaltszahlung",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnUnterhaltszahlung",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnAusbildungsfoerderung",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnAusbildungsfoerderung",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftPerson",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftBetreuer",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    }
+  ],
+  "anlage-vm.pdf": [
+    {
+      "name": "txtfPersonVorname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonNachname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "datePersonGebDatum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGNr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnBGImmobilie",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnBGImmobilie",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGHausgrundstueck",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGEigentumswohnung",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGGrundstueck",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfBGMiteigentum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfBGImmobilieWert",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "numfBGMieteinnahme",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtareaTabKFZ_Z1_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtareaTabKFZ_Z1_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtareaTabKFZ_Z1_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabKFZ_Z2_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabKFZ_Z2_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabKFZ_Z2_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchenkung",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchenkung",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfBGSchenkungVorname",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfBGSchenkungNachname",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfSchenkungBetrag",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtareaTabVermoegen_Z1_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtareaTabVermoegen_Z1_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtareaTabVermoegen_Z1_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z2_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z2_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z2_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z3_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z3_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z3_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z4_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z4_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z4_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z5_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z5_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z5_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z6_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z6_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z6_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z7_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z7_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z7_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z8_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z8_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z8_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z9_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z9_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z9_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z10_S2",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z10_S3",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfTabVermoegen_Z10_S4",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnRentenversicherung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnRentenversicherung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnAlterssicherung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnAlterssicherung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfBGAlterssicherungVorname",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfBGAlterssicherungNachname",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfVermoegensgegenstand",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnSelbstaendig",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnSelbstaendig",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfBGSelbstaendigVorname",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfBGSelbstaendigNachname",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfSelbstaendigJahre",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftPerson",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftBetreuer",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    }
+  ],
+  "anlage-ki.pdf": [
+    {
+      "name": "txtfPersonVorname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonNachname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "datePersonGebDatum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGNr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfKindVorname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfKindNachname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "dateKindGebDatum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfKindGebName",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfKindGebOrt",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfKindGebLand",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfKindStaatsangehoerigkeit",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGMaennlich",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGWeiblich",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGDivers",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGKeine",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnKindRVNr",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnKindRVNr",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfKindRVNr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnKindVormund",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnKindVormund",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "dateKindEinreise",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnKindAufenth",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnKindAufenth",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnKindVerpflE",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnKindVerpflE",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxKindLeiblich",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxKindPartner",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxKindAdoptiert",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxKindGeschwister",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxKindSonstiges",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfKindSonstiges",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnBGElternAusserhalb",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnBGElternAusserhalb",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchueler",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchueler",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "dateEinschulung",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnKostenBuecher",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnKostenBuecher",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnLeistungSchulbedarf",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnLeistungSchulbedarf",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnAsylbLG",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnAsylbLG",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "dateAsylbL",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfPersonenIDNr",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "numfAuslaenderRegNr",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnBUEG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnBUEG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfArtLeistung",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateLeistungsbezugVon",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateLeistungsbezugBis",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerName",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerStr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerHausNr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerPlz",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerOrt",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnEinnahmen",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnEinnahmen",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchaden",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchaden",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnHaushaltEltern",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnHaushaltEltern",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchwangerschaft",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchwangerschaft",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateEntbindungstermin",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnErnaehrung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnErnaehrung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnBB",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnBB",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnStationaer",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnStationaer",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfStationaerArt",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateStationaerVon",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateStationaerBis",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnKVPV",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnKVPV",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfKVName",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfKVNr",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnKVWechsel",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnKVWechsel",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPV",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPV",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftPerson",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftVormund",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    }
+  ],
+  "anlage-wep.pdf": [
+    {
+      "name": "txtfPersonVorname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfPersonNachname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "datePersonGebDatum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGNr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGVorname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGNachname",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "dateBGGebDatum",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGGebName",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGGebOrt",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGGebLand",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfBGStaatsangehoerigkeit",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGMaennlich",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGWeiblich",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGDivers",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "chbxBGKeine",
+      "type": "CheckBox",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnRVNr",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnRVNr",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "txtfRVNr",
+      "type": "Text",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnBetreuer",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "rbtnBetreuer",
+      "type": "RadioButton",
+      "page": 1,
+      "choices": null
+    },
+    {
+      "name": "dateEinreise",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnAufenth",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnAufenth",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnVerpflichtungsE",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnVerpflichtungsE",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxFamilienstandLedig",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxFamilienstandVerheiratet",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxFamilienstandVerwitwet",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxFamilienstandLebenspartnerschaft",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxFamilienstandGetrennt",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxFamilienstandGeschieden",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "chbxFamilienstandAufgehoben",
+      "type": "CheckBox",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "dateGetrennt",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnVerwandt",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnVerwandt",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "txtfVerwandt",
+      "type": "Text",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnErwerbsfaehig",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnErwerbsfaehig",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchueler",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchueler",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnKostenBuecher",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnKostenBuecher",
+      "type": "RadioButton",
+      "page": 2,
+      "choices": null
+    },
+    {
+      "name": "rbtnUnterbringung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnUnterbringung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnUnter18",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnUnter18",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnBGElternAusserhalb",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnBGElternAusserhalb",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchulausbildung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchulausbildung",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnAsylbLG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnAsylbLG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateAsylbL",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "numfPersonenIDNr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "numfAuslaenderRegNr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnBUEG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnBUEG",
+      "type": "RadioButton",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfArtLeistung",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateLeistungsbezugVon",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "dateLeistungsbezugBis",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerName",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerStr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerHausNr",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerPlz",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungstraegerOrt",
+      "type": "Text",
+      "page": 3,
+      "choices": null
+    },
+    {
+      "name": "rbtnAnstellung",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnAnstellung",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateBeschZeitraumVon",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateBeschZeitraumBis",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateBeschZeitraum2Von",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateBeschZeitraum2Bis",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnLohnansprueche",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnLohnansprueche",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGName",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGStrasse",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGHausNr",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGPlz",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfAGOrt",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnSelbstaendig",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnSelbstaendig",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnEntgeltersatzleistung",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnEntgeltersatzleistung",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfEntgeltersatzleistung",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateEntgeltersatzleistungVon",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "dateEntgeltersatzleistungBis",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnWehrdienst",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnWehrdienst",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPflege",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnPflege",
+      "type": "RadioButton",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "txtfLebensunterhalt",
+      "type": "Text",
+      "page": 4,
+      "choices": null
+    },
+    {
+      "name": "rbtnLeistungAndere",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnLeistungAndere",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxLeistungBafoeg",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxLeistungBAB",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxLeistungWohngeld",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxLeistungArbeitslosengeld",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxLeistungRente",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxLeistungKRG",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxLeistungKG",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxLeistungKIZ",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "chbxLeistungSonstiges",
+      "type": "CheckBox",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "txtfLeistungSonstiges",
+      "type": "Text",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchaden",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchaden",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnAnspruchDritte",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnAnspruchDritte",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnAlter15",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnAlter15",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchwangerschaft",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnSchwangerschaft",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "dateEntbindungstermin",
+      "type": "Text",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnErnaehrung",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnErnaehrung",
+      "type": "RadioButton",
+      "page": 5,
+      "choices": null
+    },
+    {
+      "name": "rbtnErwerbslos",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnErwerbslos",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnBehinderung",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnBehinderung",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnLeistungTeilhabe",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnLeistungTeilhabe",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnBB",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnBB",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnStationaer",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnStationaer",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "txtfStationaerArt",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "dateStationaerVon",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "dateStationaerBis",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnKVPV",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnKVPV",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "txtfKVName",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "txtfKVNr",
+      "type": "Text",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnKVWechsel",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnKVWechsel",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPV",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "rbtnPV",
+      "type": "RadioButton",
+      "page": 6,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftPerson",
+      "type": "Text",
+      "page": 7,
+      "choices": null
+    },
+    {
+      "name": "dateUnterschriftBetreuer",
+      "type": "Text",
+      "page": 7,
+      "choices": null
+    }
+  ]
+}
