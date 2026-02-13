@@ -159,7 +159,7 @@ export function getRequiredForms(data: FormData): RequiredForm[] {
   }
 
   // Children
-  data.family.kinder.forEach((kind, index) => {
+  (data.family.kinder || []).forEach((kind, index) => {
     const age = getAge(kind.geburtsdatum);
     if (age < 15) {
       forms.push({
@@ -221,7 +221,7 @@ export function getDocumentChecklist(data: FormData): string[] {
     }
   }
 
-  if (data.family.kinder.length > 0) {
+  if ((data.family.kinder || []).length > 0) {
     docs.push('Geburtsurkunde(n) der Kinder');
   }
 
